@@ -15,6 +15,6 @@ tree_A.init( [200,200] );
 <b>var</b> tree_B = <b>new</b> Tree( 20 ,60, 1.05, 1.5 );<br/>
 tree_b.init( [600,200] ); ) ) ) ) ) )
 
-demo: <a href="http://nan-apps.com/research/TreeFractalGenerator/" >http://nan-apps.com/research/TreeFractalGenerator/</a>
+demo: <a target="_blank" href="http://nan-apps.com/research/TreeFractalGenerator/" >http://nan-apps.com/research/TreeFractalGenerator/</a>
 
-more info: <a href="http://nan-apps.com/" >http://nan-apps.com</a> 
+more info: <a target="_blank" href="http://nan-apps.com/" >http://nan-apps.com</a> 
